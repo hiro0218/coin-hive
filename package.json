@@ -1,0 +1,15 @@
+{
+  "name": "coin-hive_sample",
+  "version": "1.0.0",
+  "description": "coin-hive sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hiro",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "coin-hive": "^1.2.0"
+  }
+}
